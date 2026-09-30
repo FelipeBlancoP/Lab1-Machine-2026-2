@@ -1,0 +1,62 @@
+# Portonazo
+
+Tipo: Delito
+
+## Noticias relacionadas
+- [[N001]]
+- [[N002]]
+- [[N003]]
+- [[N004]]
+- [[N005]]
+- [[N018]]
+- [[N019]]
+- [[N020]]
+- [[N021]]
+
+## Personas relacionadas
+- [[Claudio_Herrera]]
+- [[Cristobal_Lira]]
+- [[Diego_Alfaro]]
+- [[Fabian_Reyes]]
+- [[Luis_Cordero]]
+- [[Marco_Bahamondes]]
+- [[Pedro]]
+
+## Organizaciones relacionadas
+- [[65a_Comisaria_de_Pirque]]
+- [[Carabineros]]
+- [[Fiscalia]]
+- [[Labocar]]
+- [[Laboratorio_de_Criminalistica_Labocar]]
+- [[OS9]]
+- [[Prefectura_Andes_Metropolitana]]
+- [[Prefectura_Aerea]]
+- [[Prefectura_Santiago_Central]]
+- [[Seguridad_Publica]]
+- [[Servicio_de_Encargo_y_Busqueda_de_Vehiculos_SEBV]]
+
+## Lugares
+- [[Almirante_Latorre_con_Claudio_Gay]]
+- [[Avenida_Ramon_Subercaseaux]]
+- [[Avenida_Santa_Maria]]
+- [[Camino_Santa_Rita]]
+- [[Cerro_Navia]]
+- [[Conchali]]
+- [[El_Pimiento]]
+- [[Hipolito_Salas]]
+- [[La_Florida]]
+- [[La_Puntilla]]
+- [[Lo_Barnechea]]
+- [[Lo_Espejo]]
+- [[Pasaje_Juan_Palack]]
+- [[Pasaje_Quillota]]
+- [[Pirque]]
+- [[Puente_Alto]]
+- [[Quilicura]]
+- [[Renca]]
+- [[Santiago]]
+- [[Santiago_Centro]]
+- [[Texas_con_Pasadena]]
+- [[Tocornal_con_Argomedo]]
+- [[Villa_Tocornal]]
+- [[Vitacura]]

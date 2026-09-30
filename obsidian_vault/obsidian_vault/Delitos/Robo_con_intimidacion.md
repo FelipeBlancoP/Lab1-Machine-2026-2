@@ -1,0 +1,63 @@
+# Robo con intimidación
+
+Tipo: Delito
+
+## Noticias relacionadas
+- [[N001]]
+- [[N003]]
+- [[N006]]
+- [[N009]]
+- [[N010]]
+- [[N017]]
+- [[N018]]
+- [[N020]]
+- [[N024]]
+
+## Personas relacionadas
+- [[Claudio_Herrera]]
+- [[Cristobal_Lira]]
+- [[Diego_Alfaro]]
+- [[Felix_Carrasco]]
+- [[Luis_Cordero]]
+- [[Manuel_Narvaez]]
+- [[Marco_Bahamondes]]
+
+## Organizaciones relacionadas
+- [[BIRO_de_la_PDI]]
+- [[Carabineros]]
+- [[Gendarmeria]]
+- [[Labocar]]
+- [[Laboratorio_de_Criminalistica_Labocar]]
+- [[Ministerio_Publico]]
+- [[OS9]]
+- [[PDI]]
+- [[Prefectura_Andes_Metropolitana]]
+- [[Prefectura_Aerea]]
+- [[Prefectura_Santiago_Central]]
+- [[Prefectura_Santiago_Occidente]]
+- [[Prefectura_Santiago_Rinconada]]
+- [[SIP_de_Carabineros]]
+- [[Servicio_de_Encargo_y_Busqueda_de_Vehiculos_SEBV]]
+
+## Lugares
+- [[Avenida_Santa_Maria]]
+- [[Calle_Grajales]]
+- [[Cerrillos]]
+- [[Cerro_Navia]]
+- [[Ciudad_Satelite]]
+- [[Conchali]]
+- [[Hipolito_Salas]]
+- [[Lo_Barnechea]]
+- [[Lo_Espejo]]
+- [[Macul]]
+- [[Maipu]]
+- [[Pasaje_Juan_Palack]]
+- [[Pasaje_Quillota]]
+- [[Quilicura]]
+- [[Quinta_Normal]]
+- [[San_Ramon]]
+- [[Santiago]]
+- [[Santiago_Centro]]
+- [[Texas_con_Pasadena]]
+- [[Tocornal_con_Argomedo]]
+- [[Vitacura]]
